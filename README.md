@@ -1,4 +1,4 @@
 # learning_projects
-I am uploading here some adapted exercises that I am using to learn coding.
+I am uploading some adapted exercises used to learn coding.
 
 All ears to any suggestion
